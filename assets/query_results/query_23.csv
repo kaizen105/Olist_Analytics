@@ -1,0 +1,396 @@
+"city","state","total_orders","avg_order_value"
+"divinópolis","MG",137,276.38
+"divinopolis","MG",137,276.38
+"campina grande","PB",75,274.84
+"porto seguro","BA",56,270.05
+"petrolina","PE",64,258.57
+"porto velho","RO",118,246.05
+"macapa","AP",54,244.04
+"macapá","AP",54,244.04
+"angra dos reis","RJ",85,243.31
+"araruama","RJ",77,239.95
+"barreiras","BA",52,239.87
+"joão pessoa","PB",248,236.09
+"joao pessoa","PB",256,234.64
+"rio branco","AC",70,231.90
+"ananindeua","PA",87,230.84
+"nova lima","MG",98,230.57
+"monte alegre do sul","SP",64,216.50
+"birigüi","SP",76,214.67
+"rondonópolis","MT",63,212.60
+"birigui","SP",79,211.33
+"rondonopolis","MT",65,210.53
+"jaguariúna","SP",68,209.89
+"jaguariuna","SP",68,209.89
+"vitoria da conquista","BA",92,209.70
+"vitória da conquista","BA",92,209.70
+"belém","PA",439,207.84
+"linhares","ES",65,207.63
+"belem","PA",443,207.00
+"maceio","AL",247,206.89
+"maceió","AL",240,206.20
+"palmas","TO",91,204.87
+"araguari","MG",54,204.22
+"teresina","PI",279,203.80
+"campo grande","MS",320,203.03
+"ourinhos","SP",80,201.32
+"pato branco","PR",53,199.99
+"videira","SC",57,199.64
+"viçosa","MG",90,199.09
+"vicosa","MG",90,199.09
+"jatai","GO",54,198.91
+"jataí","GO",54,198.91
+"tubarao","SC",60,198.87
+"tubarão","SC",60,198.87
+"aracaju","SE",225,198.36
+"guara","DF",129,198.09
+"nova friburgo","RJ",151,197.98
+"balneario camboriu","SC",100,192.17
+"balneário camboriú","SC",100,192.17
+"natal","RN",207,191.26
+"criciuma","SC",93,190.79
+"criciúma","SC",93,190.79
+"muriaé","MG",63,187.51
+"caxias do sul","RS",224,187.01
+"jaboatão dos guararapes","PE",131,186.92
+"patos de minas","MG",100,186.05
+"jaboatao dos guararapes","PE",135,186.04
+"santa cruz do sul","RS",63,185.71
+"muriae","MG",64,185.53
+"santa maria","RS",194,185.20
+"amparo","SP",67,185.08
+"cruzeiro","DF",104,184.91
+"marília","SP",196,184.70
+"marilia","SP",196,184.70
+"paranaguá","PR",59,183.33
+"paranagua","PR",59,183.33
+"botucatu","SP",101,183.20
+"itajai","SC",120,182.94
+"itajaí","SC",120,182.94
+"lins","SP",55,182.51
+"araxá","MG",78,182.25
+"araxa","MG",78,182.25
+"itapetininga","SP",78,182.18
+"florianópolis","SC",570,181.76
+"florianopolis","SC",570,181.76
+"caruaru","PE",63,181.34
+"varginha","MG",88,181.02
+"gravataí","RS",112,180.99
+"gravatai","RS",112,180.99
+"pouso alegre","MG",131,180.56
+"são luís","MA",337,180.56
+"bagé","RS",64,180.29
+"nova serrana","MG",51,179.29
+"novo hamburgo","RS",123,178.97
+"bage","RS",65,178.45
+"sao luis","MA",353,178.18
+"caratinga","MG",62,177.96
+"manaus","AM",140,177.49
+"guarapari","ES",67,176.78
+"rio verde","GO",66,176.48
+"fortaleza","CE",654,175.50
+"presidente prudente","SP",161,175.37
+"barra mansa","RJ",123,175.20
+"barbacena","MG",80,174.65
+"cascavel","PR",148,173.90
+"recife","PE",620,173.69
+"jaraguá do sul","SC",87,173.52
+"uberaba","MG",191,173.20
+"jaragua do sul","SC",89,172.56
+"anapolis","GO",113,172.36
+"anápolis","GO",106,172.16
+"juiz de fora","MG",427,171.95
+"londrina","PR",306,171.91
+"camboriu","SC",93,171.03
+"rio das ostras","RJ",137,169.80
+"goiânia","GO",674,169.64
+"guaratinguetá","SP",96,169.61
+"goiania","GO",691,169.31
+"guaratingueta","SP",98,168.74
+"tatuí","SP",75,168.42
+"tatui","SP",75,168.42
+"cuiabá","MT",245,168.33
+"lavras","MG",83,168.22
+"lavras mg","MG",83,168.22
+"cuiaba","MT",248,167.68
+"taguatinga","DF",231,167.49
+"timóteo","MG",54,166.35
+"timoteo","MG",54,166.35
+"francisco beltrao","PR",52,166.14
+"itabuna","BA",62,165.50
+"são sebastião","SP",60,165.42
+"sao sebastiao","SP",60,165.42
+"governador valadares","MG",141,165.16
+"itajuba","MG",94,165.05
+"itajubá","MG",94,165.05
+"camacari","BA",69,164.95
+"sao joao da boa vista","SP",82,164.60
+"são joão da boa vista","SP",82,164.60
+"teresópolis","RJ",116,164.52
+"betim","MG",203,164.32
+"caraguatatuba","SP",89,164.14
+"ceilandia","DF",112,163.98
+"dourados","MS",64,163.27
+"vitória","ES",379,162.91
+"vitoria","ES",379,162.91
+"teresopolis","RJ",120,162.87
+"chapecó","SC",103,162.85
+"chapeco","SC",103,162.85
+"joao monlevade","MG",51,162.06
+"joão monlevade","MG",51,162.06
+"salvador","BA",1241,161.87
+"volta redonda","RJ",232,161.63
+"brasília","DF",1767,161.38
+"rio de janeiro","RJ",6923,161.16
+"brasilia","DF",1951,161.07
+"toledo","PR",71,160.78
+"passo fundo","RS",113,160.74
+"bauru","SP",273,160.20
+"mage","RJ",109,160.19
+"poços de caldas","MG",120,159.91
+"macaé","RJ",236,159.40
+"itauna","MG",57,159.30
+"itaúna","MG",57,159.30
+"paracatu","MG",63,159.10
+"maringa","PR",271,159.05
+"maringá","PR",271,159.05
+"piracicaba","SP",369,158.97
+"assis","SP",84,158.84
+"macae","RJ",239,158.82
+"pocos de caldas","MG",122,158.72
+"fernandópolis","SP",53,158.66
+"lago sul","DF",83,158.66
+"fernandopolis","SP",53,158.66
+"porto alegre","RS",1379,158.48
+"vila velha","ES",336,157.99
+"petrópolis","RJ",240,157.97
+"petropolis","RJ",240,157.97
+"itabira","MG",79,157.39
+"são josé do rio preto","SP",334,157.27
+"jundiaí","SP",572,156.98
+"sao jose do rio preto","SP",335,156.91
+"jundiai","SP",565,156.89
+"curitiba","PR",1524,156.80
+"olinda","PE",93,156.50
+"matao","SP",52,156.48
+"matão","SP",52,156.48
+"feira de santana","BA",185,156.09
+"ferraz de vasconcelos","SP",111,156.07
+"sete lagoas","MG",128,155.67
+"campos dos goytacazes","RJ",261,155.64
+"rio grande","RS",125,155.38
+"nova iguacu","RJ",442,155.12
+"lages","SC",84,155.01
+"araras","SP",94,154.97
+"nova iguaçu","RJ",436,154.95
+"votuporanga","SP",63,154.92
+"foz do iguaçu","PR",87,154.47
+"foz do iguacu","PR",87,154.47
+"niterói","RJ",845,153.45
+"santos","SP",713,153.26
+"niteroi","RJ",849,153.00
+"braganca paulista","SP",146,152.78
+"bragança paulista","SP",146,152.78
+"joinville","SC",264,152.53
+"brusque","SC",60,152.05
+"parnamirim","RN",59,151.85
+"ponta grossa","PR",143,151.58
+"mogi guaçu","SP",93,151.49
+"mogi-guacu","SP",93,151.49
+"mogi guacu","SP",93,151.49
+"camaçari","BA",62,151.24
+"campo mourao","PR",56,150.52
+"campo mourão","PR",56,150.52
+"lagoa santa","MG",59,149.56
+"manhuacu","MG",65,149.37
+"manhuaçu","MG",65,149.37
+"itanhaém","SP",80,149.09
+"itanhaem","SP",80,149.09
+"cosmopolis","SP",52,149.08
+"cosmópolis","SP",52,149.08
+"cachoeiro de itapemirim","ES",123,148.79
+"bento gonçalves","RS",56,148.79
+"bento goncalves","RS",56,148.79
+"catanduva","SP",75,148.45
+"guarapuava","PR",71,148.32
+"cariacica","ES",139,148.22
+"ribeirão das neves","MG",100,147.71
+"ribeirao das neves","MG",101,147.70
+"apucarana","PR",54,147.43
+"belo horizonte","MG",2789,147.18
+"araraquara","SP",155,146.99
+"itapira","SP",55,146.97
+"mauá","SP",320,146.92
+"maua","SP",323,146.88
+"caçapava","SP",74,146.72
+"cacapava","SP",74,146.72
+"nilopolis","RJ",107,146.52
+"nilópolis","RJ",105,146.39
+"cachoeirinha","RS",72,146.34
+"rio claro","SP",155,146.19
+"magé","RJ",105,146.12
+"avare","SP",64,146.02
+"avaré","SP",64,146.02
+"são joão de meriti","RJ",134,145.95
+"sao joao de meriti","RJ",134,145.95
+"mesquita","RJ",75,145.70
+"serra","ES",285,145.65
+"ouro preto","MG",61,145.56
+"pinhais","PR",69,145.24
+"blumenau","SC",188,144.94
+"praia grande","SP",311,144.45
+"ipatinga","MG",171,143.83
+"ribeirao preto","SP",528,143.52
+"ribeirão preto","SP",528,143.52
+"uberlandia","MG",374,143.48
+"uberlândia","MG",374,143.48
+"jaboticabal","SP",54,143.17
+"sobradinho","DF",84,142.95
+"são gonçalo","RJ",403,142.94
+"barretos","SP",73,142.90
+"montes claros","MG",211,142.74
+"campinas","SP",1444,142.74
+"pindamonhangaba","SP",101,142.70
+"pelotas","RS",186,142.37
+"mogi das cruzes","SP",383,142.34
+"duque de caxias","RJ",266,142.32
+"sao goncalo","RJ",409,142.19
+"indaiatuba","SP",280,142.08
+"aparecida de goiânia","GO",102,141.93
+"são josé","SC",169,141.27
+"sao jose","SC",169,141.27
+"santa luzia","MG",93,141.24
+"varzea paulista","SP",80,140.54
+"cotia","SP",250,140.45
+"aparecida de goiania","GO",110,140.43
+"santana de parnaíba","SP",180,140.35
+"embu","SP",176,139.89
+"embu das artes","SP",176,139.89
+"guaruja","SP",226,139.82
+"guarujá","SP",224,139.77
+"lauro de freitas","BA",74,139.63
+"cabo frio","RJ",117,139.47
+"valinhos","SP",183,139.46
+"sao joao del rei","MG",67,139.30
+"são joão del rei","MG",67,139.30
+"várzea paulista","SP",78,139.29
+"jau","SP",74,139.15
+"jaú","SP",74,139.15
+"unai","MG",54,139.04
+"unaí","MG",54,139.04
+"palhoça","SC",95,139.03
+"palhoca","SC",95,139.03
+"pirassununga","SP",69,138.99
+"caieiras","SP",146,138.98
+"santana de parnaiba","SP",185,138.94
+"colombo","PR",62,138.94
+"canoas","RS",210,138.59
+"sao carlos","SP",236,138.33
+"são carlos","SP",236,138.33
+"limeira","SP",190,138.26
+"taboão da serra","SP",303,138.12
+"franca","SP",161,137.75
+"itapeva","SP",53,137.15
+"belford roxo","RJ",111,136.83
+"atibaia","SP",159,136.62
+"itatiba","SP",97,136.34
+"são paulo","SP",15406,135.84
+"sao paulo","SP",15586,135.69
+"ubá","MG",53,135.68
+"uba","MG",53,135.68
+"maricá","RJ",117,135.38
+"barueri","SP",433,134.76
+"mairiporã","SP",75,134.59
+"mairipora","SP",75,134.59
+"sorocaba","SP",641,134.32
+"resende","RJ",119,134.30
+"aracatuba","SP",141,134.05
+"araçatuba","SP",141,134.05
+"são vicente","SP",163,133.39
+"sao vicente","SP",163,133.39
+"paulinia","SP",130,133.05
+"paulínia","SP",130,133.05
+"taboao da serra","SP",296,133.02
+"são roque","SP",79,132.75
+"sao roque","SP",79,132.75
+"guarulhos","SP",1189,132.10
+"votorantim","SP",85,131.67
+"contagem","MG",426,131.58
+"marica","RJ",139,131.05
+"sao caetano do sul","SP",277,130.98
+"cruzeiro","SP",56,130.86
+"ilhéus","BA",70,130.39
+"são caetano do sul","SP",296,129.88
+"ilheus","BA",72,129.62
+"santo andré","SP",789,129.29
+"erechim","RS",58,129.24
+"santo andre","SP",795,128.94
+"mogi-mirim","SP",78,128.63
+"mogi mirim","SP",78,128.63
+"sumare","SP",183,128.38
+"sumaré","SP",183,128.38
+"colatina","ES",65,127.65
+"ijui","RS",52,127.23
+"ijuí","RS",52,127.23
+"sao jose dos campos","SP",703,126.33
+"hortolandia","SP",145,125.83
+"hortolândia","SP",145,125.83
+"são josé dos campos","SP",691,125.70
+"americana","SP",224,125.32
+"queimados","RJ",54,125.09
+"itapevi","SP",170,123.92
+"itaquaquecetuba","SP",172,123.89
+"poá","SP",81,123.37
+"sertaozinho","SP",62,123.13
+"são bernardo do campo","SP",923,122.97
+"sao bernardo do campo","SP",967,122.62
+"sertãozinho","SP",61,121.53
+"teófilo otoni","MG",75,121.35
+"teofilo otoni","MG",75,121.35
+"santa bárbara doeste","SP",90,121.08
+"osasco","SP",746,120.51
+"taubate","SP",270,120.47
+"poa","SP",85,120.04
+"barra do pirai","RJ",61,119.90
+"salto","SP",95,119.72
+"são leopoldo","RS",105,119.03
+"sao leopoldo","RS",105,119.03
+"ituiutaba","MG",56,118.41
+"bebedouro","SP",51,118.11
+"taubaté","SP",267,117.93
+"arujá","SP",67,117.77
+"aruja","SP",67,117.77
+"santa barbara d oeste","SP",122,117.39
+"barra do piraí","RJ",57,117.02
+"santa bárbara d'oeste","SP",123,116.89
+"santa barbara d'oeste","SP",124,116.70
+"araucaria","PR",54,115.85
+"araucária","PR",54,115.85
+"ubatuba","SP",76,115.77
+"cajamar","SP",100,115.75
+"vinhedo","SP",95,115.66
+"suzano","SP",234,115.34
+"diadema","SP",286,114.34
+"itu","SP",135,113.97
+"jandira","SP",85,113.13
+"itaborai","RJ",60,112.43
+"itaboraí","RJ",56,111.99
+"carapicuíba","SP",326,110.31
+"lorena","SP",83,110.14
+"sao jose dos pinhais","PR",133,110.10
+"carapicuiba","SP",328,110.06
+"conselheiro lafaiete","MG",84,109.73
+"são josé dos pinhais","PR",132,109.49
+"jacarei","SP",193,108.42
+"jacareí","SP",190,107.67
+"francisco morato","SP",100,107.56
+"viamão","RS",72,106.84
+"viamao","RS",73,106.64
+"ribeirao pires","SP",109,105.51
+"ribeirão pires","SP",108,105.36
+"cubatão","SP",77,104.48
+"franco da rocha","SP",109,104.33
+"cubatao","SP",78,103.92
+"itapecerica da serra","SP",98,101.44
+"tupã","SP",52,98.13
+"tupa","SP",53,91.70
