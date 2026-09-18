@@ -39,7 +39,7 @@ Below are the key pages from the Power BI dashboard, highlighting different aspe
 The analysis utilizes advanced SQL techniques to answer complex business questions:
 
 - **Top Customer per State (Window Functions):** Uses `ROW_NUMBER() OVER(PARTITION BY...)` to rank customers by total spend within each state.
-  | customer_state | customer_unique_id | total_spend |
+  | customer_state | customer_unique_id | total_spend (BRL) |
   |---|---|---|
   | RJ | 0a0a92112bd4c708ca5fde585afaa872 | 13,664.08 |
   | SC | 46450c74a0d8c5ca9395da1daac6c120 | 9,553.02 |
@@ -61,7 +61,7 @@ The analysis utilizes advanced SQL techniques to answer complex business questio
   *This exposes specific problematic SKUs that are structurally flawed in logistics routing and guarantee a poor customer experience.*
 
 - **Seller Performance Ranking (Aggregations & HAVING):** Combines revenue, total orders, and average review scores to rank sellers, demonstrating multi-metric aggregation.
-  | seller_id | total_orders | total_revenue | avg_review_score |
+  | seller_id | total_orders | total_revenue (BRL) | avg_review_score |
   |---|---|---|---|
   | 4869f7a5dfa277a7dca6462dcf3b52b2 | 1132 | 229,472.63 | 4.12 |
   | 53243585a1d6dc2643021fd1853d8905 | 358 | 222,776.05 | 4.08 |
@@ -72,7 +72,7 @@ The analysis utilizes advanced SQL techniques to answer complex business questio
   *This provides a balanced scoreboard to evaluate seller quality beyond just volume, penalizing those who drive revenue but deliver poor experiences.*
 
 - **Full Category-to-Seller-to-State Chain (Multiple CTEs & JOINs):** Chains multiple CTEs to merge product, review, seller, and geographical data, identifying top performers across categories.
-  | product_category_name | total_revenue | avg_review_score | top_seller | top_state |
+  | product_category_name | total_revenue (BRL) | avg_review_score | top_seller | top_state |
   |---|---|---|---|---|
   | beleza_saude (Health/Beauty) | 1,263,138.54 | 4.14 | edb1ef5e... | SP |
   | relogios_presentes (Watches) | 1,206,075.33 | 4.02 | 4869f7a5... | SP |
@@ -94,7 +94,7 @@ In addition to the highlights above, the analysis explores basic operations and 
 *This high-level breakdown highlights the overall reliability of the logistics network, showing that while late deliveries happen (~8%), the vast majority of orders arrive within the estimated window.*
 
 ### Customer Spending Segments (Query 22)
-| customer_unique_id | total_spend | spending_segment |
+| customer_unique_id | total_spend (BRL) | spending_segment |
 |---|---|---|
 | 0a0a92112bd4c708ca5fde585afaa872 | 13,664.08 | High Value |
 | 46450c74a0d8c5ca9395da1daac6c120 | 9,553.02 | High Value |
@@ -105,7 +105,7 @@ In addition to the highlights above, the analysis explores basic operations and 
 *By segmenting customers into tiers based on their lifetime spend, we can identify the most valuable accounts that might warrant exclusive loyalty programs or targeted re-engagement campaigns.*
 
 ### Category-wise Revenue (Query 15)
-| product_category_name | total_revenue |
+| product_category_name | total_revenue (BRL) |
 |---|---|
 | beleza_saude | 1,258,681.34 |
 | relogios_presentes | 1,205,005.68 |
