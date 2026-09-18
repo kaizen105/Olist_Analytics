@@ -115,6 +115,8 @@ In addition to the highlights above, the analysis explores basic operations and 
 
 *This ranks the product categories by total revenue generated, revealing that Health/Beauty and Watches dominate the marketplace's cash flow.*
 
+> **Note:** Minor revenue variance (~0.3%) between this and the Category-to-Seller-to-State chain query (Query 24) is expected — Query 24 joins on reviews, which aren't strictly 1:1 with orders, causing slight row duplication in the aggregate. Query 15 is the cleaner source of truth for category revenue.
+
 ## Repo Structure
 ```text
 .
