@@ -91,6 +91,8 @@ In addition to the highlights above, the analysis explores basic operations and 
 | Late | 7,834 | 8.12% |
 | On-time | 88,644 | 91.88% |
 
+*This high-level breakdown highlights the overall reliability of the logistics network, showing that while late deliveries happen (~8%), the vast majority of orders arrive within the estimated window.*
+
 ### Customer Spending Segments (Query 22)
 | customer_unique_id | total_spend | spending_segment |
 |---|---|---|
@@ -100,6 +102,8 @@ In addition to the highlights above, the analysis explores basic operations and 
 | 763c8b1c9c68a0229c42c9fc6f662b93 | 7,274.88 | High Value |
 | dc4802a71eae9be1dd28f5d788ceb526 | 6,929.31 | High Value |
 
+*By segmenting customers into tiers based on their lifetime spend, we can identify the most valuable accounts that might warrant exclusive loyalty programs or targeted re-engagement campaigns.*
+
 ### Category-wise Revenue (Query 15)
 | product_category_name | total_revenue |
 |---|---|
@@ -108,6 +112,8 @@ In addition to the highlights above, the analysis explores basic operations and 
 | cama_mesa_banho | 1,036,988.68 |
 | esporte_lazer | 988,048.97 |
 | informatica_acessorios | 911,954.32 |
+
+*This ranks the product categories by total revenue generated, revealing that Health/Beauty and Watches dominate the marketplace's cash flow.*
 
 ## Repo Structure
 ```text
@@ -128,6 +134,6 @@ In addition to the highlights above, the analysis explores basic operations and 
 ```
 
 ## Author
-* [Your Name]
-* [LinkedIn](https://linkedin.com/in/yourprofile)
-* [GitHub](https://github.com/yourusername)
+* **Yash Sharma**
+* [LinkedIn](https://www.linkedin.com/in/yash-sharma-k/)
+* [GitHub](https://github.com/kaizen105)
